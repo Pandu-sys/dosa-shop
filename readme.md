@@ -9,7 +9,7 @@
 * oil
 * karam
 
-## Egg dosa
-- dosa batter
-- oil
-- 2 eggs
+## Egg Dosa
+* Dosa batter
+* oil
+* 1/2 egg
