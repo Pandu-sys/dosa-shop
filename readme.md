@@ -1,5 +1,10 @@
-# Dosa shop 
+# dosa shop
 
 ## Plain dosa
 * Dosa batter
-* Light oil
+* light oil
+
+## Karam dosa
+* Dosa batter
+* oil
+* karam
