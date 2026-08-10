@@ -22,5 +22,3 @@
 ## Butter Dosa
 * Dosa batter
 * Butter
-+ Tomato paste
-* Ghee
