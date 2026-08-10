@@ -13,3 +13,8 @@
 * Dosa batter
 * oil
 * 1/2 egg
+
+## Masala dosa
+* Dosa batter
+* oil
+* Aloo masala
