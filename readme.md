@@ -6,4 +6,3 @@
 
 ## Karam dosa
 * Dosa batter
-* oil
